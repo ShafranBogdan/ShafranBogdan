@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning python, ML and studying at MIPT
+- 📫 How to reach me: shafran.study@gmail.com
